@@ -9,25 +9,25 @@
                 "children":
                 [
                     {
-                        "caption": "Example", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}
+                        "caption": "Example", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}
                     },
                     {
-                        "caption": "Translation", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}
+                        "caption": "Translation", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}
                     },
                     {
-                        "caption": "Long Example", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}
+                        "caption": "Long Example", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}
                     },                              
                     {
-                        "caption": "Long Translation", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}
+                        "caption": "Long Translation", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}
                     },                    
                     {
-                        "caption": "Long Quote", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_quote"}
+                        "caption": "Long Quote", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_quote"}
                     },                    
                     {
-                        "caption": "Pull Quote", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=pull_quote"}
+                        "caption": "Pull Quote", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=pull_quote"}
                     },                    
                     {
-                        "caption": "Long Keywords", "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_keywords"}
+                        "caption": "Long Keywords", "command": "cwk_custom_tag_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_keywords"}
                     },                        
                 ]
             },
