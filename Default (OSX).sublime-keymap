@@ -1,0 +1,7 @@
+[
+        { "keys": ["super+ctrl+e"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}},
+        { "keys": ["super+ctrl+k"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}},
+        { "keys": ["super+ctrl+n"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}},
+        { "keys": ["super+ctrl+g"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}},
+
+]

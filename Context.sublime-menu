@@ -1,0 +1,36 @@
+[
+    {
+        "id": "cwkcustomtagtoolkit",
+        "caption": "cwkCustomTagToolKit",
+        "children":
+        [
+            {
+                "caption": "English",
+                "children":
+                [
+                    {
+                        "caption": "Example", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}
+                    },
+                    {
+                        "caption": "Translation", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}
+                    },
+                    {
+                        "caption": "Long Example", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}
+                    },                              
+                    {
+                        "caption": "Long Translation", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}
+                    },                    
+                    {
+                        "caption": "Long Quote", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_quote"}
+                    },                    
+                    {
+                        "caption": "Pull Quote", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=pull_quote"}
+                    },                    
+                    {
+                        "caption": "Long Keywords", "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_keywords"}
+                    },                        
+                ]
+            },
+        ]
+    }
+]
