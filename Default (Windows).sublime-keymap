@@ -1,7 +1,7 @@
 [
-        { "keys": ["shift+ctrl+e"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}},
-        { "keys": ["shift+ctrl+k"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}},
-        { "keys": ["shift+ctrl+n"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}},
-        { "keys": ["shift+ctrl+g"], "command": "cwk_word_press_parser", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}},
+        { "keys": ["shift+ctrl+e"], "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=example"}},
+        { "keys": ["shift+ctrl+k"], "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=translation"}},
+        { "keys": ["shift+ctrl+n"], "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_example"}},
+        { "keys": ["shift+ctrl+g"], "command": "cwk_custom_tool_kit", "args": {"opening_tag": "<div>", "closing_tag": "</div>", "attr": "class=long_translation"}},
 
 ]
